@@ -1,6 +1,6 @@
 ## Year 2 Lab Project: Simulating the transit of planets, their satellites and starspots
 
-This was my final second year physics project and spanned 11 weeks in duration. The goal of this project was to create a grid-based simulation of an
+This was my second year physics project and spanned 11 weeks in duration. The goal of this project was to create a grid-based simulation of an
 exoplanet orbiting a star. 
 
 When an exoplanet passess infront of a star it blocks a portion of light from the star. This tiny difference in stellar luminosity is captured by space 
