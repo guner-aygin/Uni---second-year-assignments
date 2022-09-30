@@ -8,4 +8,4 @@ telescopes such as Kepler. To test our simulation, we used real data of the exop
 
 As a bonus, we also attempted simulating a starspot as well as a satellite orbiting the planet, and seeing if it would be detectable.
 
-This project recieved an overall **1st**, with my preliminary report recieving 90%, the highest of my cohort. 
+This project recieved an overall **1st**, with my preliminary report recieving **90%**, the highest of my cohort. 
